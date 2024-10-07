@@ -3,6 +3,7 @@ import 'package:sliderdelete/DataPicker.dart';
 import 'package:sliderdelete/Sliderdelete.dart';
 import 'package:sliderdelete/Switch.dart';
 import 'package:sliderdelete/TimePick.dart';
+import 'package:sliderdelete/slider.dart';
 
 void main() {
   runApp(const MyApp());
